@@ -3,5 +3,6 @@ Dataset of 10996 documentation-related commit messages, extracted from 998 GitHu
 
 
 This repository consists of a dataset of 10996 documentation-related commit messages, across 998 GitHub projects. 
-1. The list of all the commit messages extracted is presented in "commitmsgs.csv" file
+1. The list of all the commit messages extracted is presented in "commitmsgs.csv" file.
 2. The "EmoAnalysis.R" is the corresponding script for analysing emotions in the commit messages. This script also includes pre-processing the commit messages.
+3. The "Rplots.pdf" file contains the results of evaluation. 
