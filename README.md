@@ -1,5 +1,5 @@
 # Understanding-Emotions-of-Developer-CommunityTowards-Software-Documentation
-Dataset of 109996 documentation-related commit messages, extracted from 998 GitHub projects considered for emotion analysis, to understand developer perception towards documentation. 
+Dataset of 10996 documentation-related commit messages, extracted from 998 GitHub projects considered for emotion analysis, to understand developer perception towards documentation. 
 
 
 This repository consists of a dataset of 10996 documentation-related commit messages, across 998 GitHub projects. 
